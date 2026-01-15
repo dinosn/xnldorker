@@ -3,7 +3,7 @@
 ## About - v4.0
 
 This is a tool used to run a dork on different search sites.
-The available sources are currently: **DuckDuckGo, DuckGoLite, Bing, Startpage, Yahoo, Google, GoogleCS, Yandex, Ecosia, Baidu, Seznam, Kagi**
+The available sources are currently: **DuckDuckGo, DuckGoLite, Bing, Startpage, Yahoo, Google, GoogleCS, Yandex, Ecosia, Baidu, Seznam, Kagi, Qwant**
 
 **ℹ️ IMPORTANT: This tool does not solve captchas for you, so it is advised you use the `-sb`/`--show-browser` argument and manually deal with the captchas to get best results. DO NOT interact with the browser unless the CLI says to solve a Captcha, and ONLY solve the capture and don't click anything else!**
 
@@ -230,3 +230,4 @@ If you really love the tool (or any others), or they helped you find an awesome 
 
 <p>
 <a href='https://ko-fi.com/B0B3CZKR5' target='_blank'><img height='36' style='border:0px;height:36px;' src='https://storage.ko-fi.com/cdn/kofi2.png?v=3' border='0' alt='Buy Me a Coffee at ko-fi.com' /></a>
+
